@@ -1,0 +1,11 @@
+[ 2024-07-21 14:34:59,144 ] 30 root - INFO - Entered the data ingestion method or component
+[ 2024-07-21 14:34:59,513 ] 33 root - INFO - Read the dataset as dataframe
+[ 2024-07-21 14:35:00,697 ] 39 root - INFO - Train test split initiated
+[ 2024-07-21 14:35:01,952 ] 46 root - INFO - Inmgestion of the data iss completed
+[ 2024-07-21 14:35:02,369 ] 70 root - INFO - Read train and test data completed
+[ 2024-07-21 14:35:02,596 ] 109 root - INFO - Obtaining preprocessing object
+[ 2024-07-21 14:35:02,604 ] 120 root - INFO - Applying preprocessing object on training and testing dataframes
+[ 2024-07-21 14:35:03,347 ] 126 root - INFO - input_feature_train_arr shape: (361670, 51)
+[ 2024-07-21 14:35:03,347 ] 127 root - INFO - input_feature_test_arr shape: (90418, 51)
+[ 2024-07-21 14:35:03,347 ] 128 root - INFO - target_feature_train_df shape: (361670,)
+[ 2024-07-21 14:35:03,347 ] 129 root - INFO - target_feature_test_df shape: (90418,)
